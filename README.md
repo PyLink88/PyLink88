@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PyLink88!
+- 👋 Hi, I’m Francesco!
 - 👀 I’m interested in machine learning and deep learning methods and models for time series and signal analysis for industrial applications (but not only)!
 - 📫 You can reach me at masterluke88@hotmail.com
 
