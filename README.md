@@ -1,4 +1,4 @@
-- 👀 I’m interested in machine learning and deep learning methods and models for time series and signal analysis for industrial applications (but not only)!
+- 👀 I’m interested in machine learning and deep learning methods and models for industrial applications!
 - 📫 You can reach me at francesco.cannarile88@gmail.com
 
 <!---
